@@ -1,0 +1,24 @@
+{
+  "name": "tipdeck",
+  "version": "0.0.1",
+  "description": "store and search tip memos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "buster test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fnobi/tipdeck.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "buster": "*",
+    "nlogger": "*"
+  },
+  "author": "Fujisawa Shin",
+  "license": "BSD"
+}
